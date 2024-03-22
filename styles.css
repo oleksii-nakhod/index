@@ -1,0 +1,9 @@
+a {
+    text-decoration: none;
+    border: none;
+    color: inherit;
+}
+
+.container {
+    max-width: 1000px;
+}
